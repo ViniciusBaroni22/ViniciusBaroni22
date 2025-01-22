@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Vinícius J. Baroni
 
-- 🔭 Hoje trabalho com Desenvolvimento web
-- 🌱 Estudando Java
 - 📫 Contate-me no email: baronivinicius_2201@hotmail.com
 
  <div> 
